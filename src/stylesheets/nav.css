@@ -1,0 +1,30 @@
+#nav {
+  background-color: #ffd1dc;
+  position: absolute;
+  text-align: center;
+  height: 6vmin;
+  width: 100vw;
+}
+.nav-name {
+  font-family: 'Barlow Condensed', sans-serif;
+  margin: 2vmin;
+}
+.nav-links {
+  display: flex;
+  flex-direction: row;
+}
+.nav-links a {
+  align-items: center;
+  color: black;
+  display: flex;
+  justify-content: center;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-decoration: none;
+  height: 4vmin;
+  transition: 0.5s;
+  flex-grow: 1;
+}
+.nav-links a:hover {
+  background: black;
+  color: white;
+}

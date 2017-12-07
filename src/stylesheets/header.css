@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed|Roboto');
+
+#header {
+  background: #ffd1dc;
+  display: flex;
+  margin: 0 auto;
+  height: 100%;
+  width: 100vw;
+}
+.main-text {
+  color: #000;
+  font-size: 9vh;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-align: center;
+  width: 100%;
+}
+.center-main {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+}

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "mo-js": "^0.288.2",
     "react-scripts": "1.0.17"
   },
   "dependencies": {
